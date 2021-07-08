@@ -1,0 +1,19 @@
+{
+  "name": "taller-git-2021-1",
+  "version": "0.0.1",
+  "description": "Example for git workshop",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mf222/taller-git-2021-1.git"
+  },
+  "author": "mf222",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mf222/taller-git-2021-1/issues"
+  },
+  "homepage": "https://github.com/mf222/taller-git-2021-1#readme"
+}
